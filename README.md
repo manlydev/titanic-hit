@@ -1,6 +1,6 @@
 # 🚀 SMS Bomber
 
-Welcome to **TITANIC HIT**! This is a brief description of your project.
+Welcome to **TITANIC HIT**! 
 
 ## 📦 Installation
 
@@ -13,3 +13,5 @@ pip install -r requirements.txt
 To run the project, execute the following command:
 
 python3 main.py
+
+**Everyone is responsible for herself.**
